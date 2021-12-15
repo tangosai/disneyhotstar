@@ -1,4 +1,4 @@
-# disneyhotstar
+# disneyhotstar clone by using the tmdb api
 
 A new Flutter project.
 
