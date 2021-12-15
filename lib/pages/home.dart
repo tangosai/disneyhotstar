@@ -15,9 +15,9 @@ class _Homepage extends State<Homepage> {
   List topratedmovies = [];
   List tv = [];
   List upcomingmovies = [];
-
-  final String apikey = 'e42a2cd20d9718594dfced2ec2dd6199';
-  final readaccesstoken = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlNDJhMmNkMjBkOTcxODU5NGRmY2VkMmVjMmRkNjE5OSIsInN1YiI6IjYxOTIwMjZmMDE3NTdmMDA0MzcwZTE2NyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.pFG2jY_4--edOdcB-dQwNPJAGirBsI474ujRK-jhvTQ';
+// use your api custom token
+  final String apikey = '';
+  final readaccesstoken = '';
   @override
   void initState(){
     lodmovies();
